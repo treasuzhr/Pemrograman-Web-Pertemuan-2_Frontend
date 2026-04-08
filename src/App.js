@@ -6,7 +6,7 @@ function App() {
     return (
         <div>
             <h1>Cafe SureThings</h1>
-            <UserList />
+            <CafeInfo />
             <MenuList />
         </div>
     );
